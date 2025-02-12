@@ -9,22 +9,6 @@ C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.CrossCutting\
 C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.CrossCutting\obj\Debug\net8.0\refint\UserManager.CrossCutting.dll
 C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.CrossCutting\obj\Debug\net8.0\UserManager.CrossCutting.pdb
 C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.CrossCutting\obj\Debug\net8.0\ref\UserManager.CrossCutting.dll
-C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.CrossCutting\bin\Debug\net8.0\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
-C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.CrossCutting\bin\Debug\net8.0\amd64\Microsoft.VC90.CRT\msvcr90.dll
-C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.CrossCutting\bin\Debug\net8.0\amd64\sqlceca40.dll
-C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.CrossCutting\bin\Debug\net8.0\amd64\sqlcecompact40.dll
-C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.CrossCutting\bin\Debug\net8.0\amd64\sqlceer40EN.dll
-C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.CrossCutting\bin\Debug\net8.0\amd64\sqlceme40.dll
-C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.CrossCutting\bin\Debug\net8.0\amd64\sqlceqp40.dll
-C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.CrossCutting\bin\Debug\net8.0\amd64\sqlcese40.dll
-C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.CrossCutting\bin\Debug\net8.0\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
-C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.CrossCutting\bin\Debug\net8.0\x86\Microsoft.VC90.CRT\msvcr90.dll
-C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.CrossCutting\bin\Debug\net8.0\x86\sqlceca40.dll
-C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.CrossCutting\bin\Debug\net8.0\x86\sqlcecompact40.dll
-C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.CrossCutting\bin\Debug\net8.0\x86\sqlceer40EN.dll
-C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.CrossCutting\bin\Debug\net8.0\x86\sqlceme40.dll
-C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.CrossCutting\bin\Debug\net8.0\x86\sqlceqp40.dll
-C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.CrossCutting\bin\Debug\net8.0\x86\sqlcese40.dll
 C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.CrossCutting\bin\Debug\net8.0\UserManager.Domain.dll
 C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.CrossCutting\bin\Debug\net8.0\UserManager.Infrastructure.dll
 C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.CrossCutting\bin\Debug\net8.0\UserManager.Infrastructure.pdb
@@ -33,3 +17,4 @@ C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.CrossCutting\
 C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.CrossCutting\obj\Debug\net8.0\UserMana.72A2435C.Up2Date
 C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.CrossCutting\bin\Debug\net8.0\UserManager.CrossCutting.runtimeconfig.json
 C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.CrossCutting\obj\Debug\net8.0\UserManager.CrossCutting.genruntimeconfig.cache
+C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.CrossCutting\obj\Debug\net8.0\UserManager.CrossCutting.sourcelink.json

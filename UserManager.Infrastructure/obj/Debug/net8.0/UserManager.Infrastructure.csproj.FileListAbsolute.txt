@@ -3,22 +3,6 @@ C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Infrastructur
 C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Infrastructure\obj\Debug\net8.0\UserManager.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Infrastructure\obj\Debug\net8.0\UserManager.Infrastructure.AssemblyInfo.cs
 C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Infrastructure\obj\Debug\net8.0\UserManager.Infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Infrastructure\bin\Debug\net8.0\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
-C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Infrastructure\bin\Debug\net8.0\amd64\Microsoft.VC90.CRT\msvcr90.dll
-C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Infrastructure\bin\Debug\net8.0\amd64\sqlceca40.dll
-C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Infrastructure\bin\Debug\net8.0\amd64\sqlcecompact40.dll
-C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Infrastructure\bin\Debug\net8.0\amd64\sqlceer40EN.dll
-C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Infrastructure\bin\Debug\net8.0\amd64\sqlceme40.dll
-C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Infrastructure\bin\Debug\net8.0\amd64\sqlceqp40.dll
-C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Infrastructure\bin\Debug\net8.0\amd64\sqlcese40.dll
-C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Infrastructure\bin\Debug\net8.0\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
-C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Infrastructure\bin\Debug\net8.0\x86\Microsoft.VC90.CRT\msvcr90.dll
-C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Infrastructure\bin\Debug\net8.0\x86\sqlceca40.dll
-C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Infrastructure\bin\Debug\net8.0\x86\sqlcecompact40.dll
-C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Infrastructure\bin\Debug\net8.0\x86\sqlceer40EN.dll
-C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Infrastructure\bin\Debug\net8.0\x86\sqlceme40.dll
-C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Infrastructure\bin\Debug\net8.0\x86\sqlceqp40.dll
-C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Infrastructure\bin\Debug\net8.0\x86\sqlcese40.dll
 C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Infrastructure\bin\Debug\net8.0\UserManager.Infrastructure.deps.json
 C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Infrastructure\bin\Debug\net8.0\UserManager.Infrastructure.dll
 C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Infrastructure\bin\Debug\net8.0\UserManager.Infrastructure.pdb
@@ -31,3 +15,4 @@ C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Infrastructur
 C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Infrastructure\obj\Debug\net8.0\ref\UserManager.Infrastructure.dll
 C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Infrastructure\bin\Debug\net8.0\UserManager.Infrastructure.runtimeconfig.json
 C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Infrastructure\obj\Debug\net8.0\UserManager.Infrastructure.genruntimeconfig.cache
+C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Infrastructure\obj\Debug\net8.0\UserManager.Infrastructure.sourcelink.json
