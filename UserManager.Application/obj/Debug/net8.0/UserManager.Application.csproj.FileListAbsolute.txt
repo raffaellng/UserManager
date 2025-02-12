@@ -1,0 +1,11 @@
+C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Application\bin\Debug\net8.0\UserManager.Application.deps.json
+C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Application\bin\Debug\net8.0\UserManager.Application.dll
+C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Application\bin\Debug\net8.0\UserManager.Application.pdb
+C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Application\obj\Debug\net8.0\UserManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Application\obj\Debug\net8.0\UserManager.Application.AssemblyInfoInputs.cache
+C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Application\obj\Debug\net8.0\UserManager.Application.AssemblyInfo.cs
+C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Application\obj\Debug\net8.0\UserManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Application\obj\Debug\net8.0\UserManager.Application.dll
+C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Application\obj\Debug\net8.0\refint\UserManager.Application.dll
+C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Application\obj\Debug\net8.0\UserManager.Application.pdb
+C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Application\obj\Debug\net8.0\ref\UserManager.Application.dll
