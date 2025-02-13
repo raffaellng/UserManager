@@ -121,3 +121,7 @@ C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Api\bin\Debug
 C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Api\obj\Debug\net8.0\UserManager.Api.sourcelink.json
+C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Api\bin\Debug\net8.0\MediatR.dll
+C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Api\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Api\bin\Debug\net8.0\UserManager.Application.dll
+C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Api\bin\Debug\net8.0\UserManager.Application.pdb

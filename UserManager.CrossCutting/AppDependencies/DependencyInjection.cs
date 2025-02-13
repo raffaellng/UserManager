@@ -14,6 +14,9 @@ namespace UserManager.CrossCutting.AppDependencies
                                         IConfiguration configuration)
         {
             var mySqlConnection = configuration.GetConnectionString("DefaultConnection");
+            var myhamdlers = AppDomain.CurrentDomain.Load("UserManager.Application");
+
+            services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblies(myhamdlers));
 
             services.AddDbContext<AppDbContext>(options => 
                                                 options.UseMySql(mySqlConnection, 
@@ -21,6 +24,7 @@ namespace UserManager.CrossCutting.AppDependencies
 
             services.AddScoped<IMemberRepository, MemberRepository>();
             services.AddScoped<IUnitOfWork, UnitOfWork>();
+
 
             return services;
         }

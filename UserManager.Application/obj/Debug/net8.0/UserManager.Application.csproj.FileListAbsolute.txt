@@ -9,3 +9,8 @@ C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Application\o
 C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Application\obj\Debug\net8.0\refint\UserManager.Application.dll
 C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Application\obj\Debug\net8.0\UserManager.Application.pdb
 C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Application\obj\Debug\net8.0\ref\UserManager.Application.dll
+C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Application\obj\Debug\net8.0\UserManager.Application.csproj.AssemblyReference.cache
+C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Application\obj\Debug\net8.0\UserManager.Application.sourcelink.json
+C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Application\bin\Debug\net8.0\UserManager.Domain.dll
+C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Application\bin\Debug\net8.0\UserManager.Domain.pdb
+C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Application\obj\Debug\net8.0\UserMana.D815DCD9.Up2Date

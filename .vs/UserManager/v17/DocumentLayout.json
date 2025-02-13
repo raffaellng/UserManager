@@ -3,6 +3,46 @@
   "WorkspaceRootPath": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A7AF8883-E960-4198-9249-07C29B4D9043}|UserManager.Api\\UserManager.Api.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\usermanager\\usermanager.api\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AF8883-E960-4198-9249-07C29B4D9043}|UserManager.Api\\UserManager.Api.csproj|solutionrelative:usermanager.api\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4950F3AA-8EF7-460D-B900-2452D4C1FFBE}|UserManager.Application\\UserManager.Application.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\usermanager\\usermanager.application\\members\\commands\\createmembercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4950F3AA-8EF7-460D-B900-2452D4C1FFBE}|UserManager.Application\\UserManager.Application.csproj|solutionrelative:usermanager.application\\members\\commands\\createmembercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4950F3AA-8EF7-460D-B900-2452D4C1FFBE}|UserManager.Application\\UserManager.Application.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\usermanager\\usermanager.application\\members\\commands\\deletemembercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4950F3AA-8EF7-460D-B900-2452D4C1FFBE}|UserManager.Application\\UserManager.Application.csproj|solutionrelative:usermanager.application\\members\\commands\\deletemembercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4950F3AA-8EF7-460D-B900-2452D4C1FFBE}|UserManager.Application\\UserManager.Application.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\usermanager\\usermanager.application\\members\\commands\\updatemembercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4950F3AA-8EF7-460D-B900-2452D4C1FFBE}|UserManager.Application\\UserManager.Application.csproj|solutionrelative:usermanager.application\\members\\commands\\updatemembercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A19B506-3593-4258-8BA1-FDF9BD5D507A}|UserManager.Domain\\UserManager.Domain.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\usermanager\\usermanager.domain\\interfaces\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A19B506-3593-4258-8BA1-FDF9BD5D507A}|UserManager.Domain\\UserManager.Domain.csproj|solutionrelative:usermanager.domain\\interfaces\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A19B506-3593-4258-8BA1-FDF9BD5D507A}|UserManager.Domain\\UserManager.Domain.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\usermanager\\usermanager.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A19B506-3593-4258-8BA1-FDF9BD5D507A}|UserManager.Domain\\UserManager.Domain.csproj|solutionrelative:usermanager.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A19B506-3593-4258-8BA1-FDF9BD5D507A}|UserManager.Domain\\UserManager.Domain.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\usermanager\\usermanager.domain\\entities\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A19B506-3593-4258-8BA1-FDF9BD5D507A}|UserManager.Domain\\UserManager.Domain.csproj|solutionrelative:usermanager.domain\\entities\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781ACD1D-6BC4-4535-804F-D364EEC1A89D}|UserManager.CrossCutting\\UserManager.CrossCutting.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\usermanager\\usermanager.crosscutting\\appdependencies\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781ACD1D-6BC4-4535-804F-D364EEC1A89D}|UserManager.CrossCutting\\UserManager.CrossCutting.csproj|solutionrelative:usermanager.crosscutting\\appdependencies\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781ACD1D-6BC4-4535-804F-D364EEC1A89D}|UserManager.CrossCutting\\UserManager.CrossCutting.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\usermanager\\usermanager.crosscutting\\usermanager.crosscutting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{781ACD1D-6BC4-4535-804F-D364EEC1A89D}|UserManager.CrossCutting\\UserManager.CrossCutting.csproj|solutionrelative:usermanager.crosscutting\\usermanager.crosscutting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4950F3AA-8EF7-460D-B900-2452D4C1FFBE}|UserManager.Application\\UserManager.Application.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\usermanager\\usermanager.application\\usermanager.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4950F3AA-8EF7-460D-B900-2452D4C1FFBE}|UserManager.Application\\UserManager.Application.csproj|solutionrelative:usermanager.application\\usermanager.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{00AD4912-1306-4297-AB31-6885CBEBD5D3}|UserManager.Infrastructure\\UserManager.Infrastructure.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\usermanager\\usermanager.infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00AD4912-1306-4297-AB31-6885CBEBD5D3}|UserManager.Infrastructure\\UserManager.Infrastructure.csproj|solutionrelative:usermanager.infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,32 +51,12 @@
       "RelativeMoniker": "D:0:0:{7A19B506-3593-4258-8BA1-FDF9BD5D507A}|UserManager.Domain\\UserManager.Domain.csproj|solutionrelative:usermanager.domain\\validation\\domainvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A19B506-3593-4258-8BA1-FDF9BD5D507A}|UserManager.Domain\\UserManager.Domain.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\usermanager\\usermanager.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A19B506-3593-4258-8BA1-FDF9BD5D507A}|UserManager.Domain\\UserManager.Domain.csproj|solutionrelative:usermanager.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A19B506-3593-4258-8BA1-FDF9BD5D507A}|UserManager.Domain\\UserManager.Domain.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\usermanager\\usermanager.domain\\interfaces\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A19B506-3593-4258-8BA1-FDF9BD5D507A}|UserManager.Domain\\UserManager.Domain.csproj|solutionrelative:usermanager.domain\\interfaces\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A19B506-3593-4258-8BA1-FDF9BD5D507A}|UserManager.Domain\\UserManager.Domain.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\usermanager\\usermanager.domain\\entities\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A19B506-3593-4258-8BA1-FDF9BD5D507A}|UserManager.Domain\\UserManager.Domain.csproj|solutionrelative:usermanager.domain\\entities\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7A19B506-3593-4258-8BA1-FDF9BD5D507A}|UserManager.Domain\\UserManager.Domain.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\usermanager\\usermanager.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A19B506-3593-4258-8BA1-FDF9BD5D507A}|UserManager.Domain\\UserManager.Domain.csproj|solutionrelative:usermanager.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A19B506-3593-4258-8BA1-FDF9BD5D507A}|UserManager.Domain\\UserManager.Domain.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\usermanager\\usermanager.domain\\usermanager.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7A19B506-3593-4258-8BA1-FDF9BD5D507A}|UserManager.Domain\\UserManager.Domain.csproj|solutionrelative:usermanager.domain\\usermanager.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{781ACD1D-6BC4-4535-804F-D364EEC1A89D}|UserManager.CrossCutting\\UserManager.CrossCutting.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\usermanager\\usermanager.crosscutting\\appdependencies\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{781ACD1D-6BC4-4535-804F-D364EEC1A89D}|UserManager.CrossCutting\\UserManager.CrossCutting.csproj|solutionrelative:usermanager.crosscutting\\appdependencies\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7AF8883-E960-4198-9249-07C29B4D9043}|UserManager.Api\\UserManager.Api.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\usermanager\\usermanager.api\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7AF8883-E960-4198-9249-07C29B4D9043}|UserManager.Api\\UserManager.Api.csproj|solutionrelative:usermanager.api\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00AD4912-1306-4297-AB31-6885CBEBD5D3}|UserManager.Infrastructure\\UserManager.Infrastructure.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\usermanager\\usermanager.infrastructure\\entityconfiguration\\memberconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,19 +86,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteMemberCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Application\\Members\\Commands\\DeleteMemberCommand.cs",
+              "RelativeDocumentMoniker": "UserManager.Application\\Members\\Commands\\DeleteMemberCommand.cs",
+              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Application\\Members\\Commands\\DeleteMemberCommand.cs",
+              "RelativeToolTip": "UserManager.Application\\Members\\Commands\\DeleteMemberCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T05:01:04.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateMemberCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Application\\Members\\Commands\\UpdateMemberCommand.cs",
+              "RelativeDocumentMoniker": "UserManager.Application\\Members\\Commands\\UpdateMemberCommand.cs",
+              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Application\\Members\\Commands\\UpdateMemberCommand.cs",
+              "RelativeToolTip": "UserManager.Application\\Members\\Commands\\UpdateMemberCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T04:34:37.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "UserManager.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "UserManager.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T13:44:27.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Domain\\Interfaces\\IMemberRepository.cs",
+              "RelativeDocumentMoniker": "UserManager.Domain\\Interfaces\\IMemberRepository.cs",
+              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Domain\\Interfaces\\IMemberRepository.cs",
+              "RelativeToolTip": "UserManager.Domain\\Interfaces\\IMemberRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T05:08:01.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MembersController.cs",
+              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Api\\Controllers\\MembersController.cs",
+              "RelativeDocumentMoniker": "UserManager.Api\\Controllers\\MembersController.cs",
+              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Api\\Controllers\\MembersController.cs",
+              "RelativeToolTip": "UserManager.Api\\Controllers\\MembersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T04:25:27.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "UserManager.Domain",
-              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Domain\\UserManager.Domain.csproj",
-              "RelativeDocumentMoniker": "UserManager.Domain\\UserManager.Domain.csproj",
-              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Domain\\UserManager.Domain.csproj",
-              "RelativeToolTip": "UserManager.Domain\\UserManager.Domain.csproj",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Domain\\Entities\\Member.cs",
+              "RelativeDocumentMoniker": "UserManager.Domain\\Entities\\Member.cs",
+              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Domain\\Entities\\Member.cs",
+              "RelativeToolTip": "UserManager.Domain\\Entities\\Member.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T04:25:21.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserManager.CrossCutting",
+              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.CrossCutting\\UserManager.CrossCutting.csproj",
+              "RelativeDocumentMoniker": "UserManager.CrossCutting\\UserManager.CrossCutting.csproj",
+              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.CrossCutting\\UserManager.CrossCutting.csproj",
+              "RelativeToolTip": "UserManager.CrossCutting\\UserManager.CrossCutting.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-12T04:52:58.356Z",
+              "WhenOpened": "2025-02-12T20:34:39.962Z",
               "EditorCaption": ""
             },
             {
@@ -89,40 +187,53 @@
               "RelativeDocumentMoniker": "UserManager.CrossCutting\\AppDependencies\\DependencyInjection.cs",
               "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.CrossCutting\\AppDependencies\\DependencyInjection.cs",
               "RelativeToolTip": "UserManager.CrossCutting\\AppDependencies\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T03:38:52.703Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IMemberRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Domain\\Interfaces\\IMemberRepository.cs",
-              "RelativeDocumentMoniker": "UserManager.Domain\\Interfaces\\IMemberRepository.cs",
-              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Domain\\Interfaces\\IMemberRepository.cs",
-              "RelativeToolTip": "UserManager.Domain\\Interfaces\\IMemberRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T05:08:01.532Z",
+              "DocumentIndex": 9,
+              "Title": "UserManager.Application",
+              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Application\\UserManager.Application.csproj",
+              "RelativeDocumentMoniker": "UserManager.Application\\UserManager.Application.csproj",
+              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Application\\UserManager.Application.csproj",
+              "RelativeToolTip": "UserManager.Application\\UserManager.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-12T20:31:14.314Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Member.cs",
-              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Domain\\Entities\\Member.cs",
-              "RelativeDocumentMoniker": "UserManager.Domain\\Entities\\Member.cs",
-              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Domain\\Entities\\Member.cs",
-              "RelativeToolTip": "UserManager.Domain\\Entities\\Member.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Infrastructure\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "UserManager.Infrastructure\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Infrastructure\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "UserManager.Infrastructure\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T04:25:21.745Z",
+              "WhenOpened": "2025-02-10T14:10:56.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
+              "Title": "UserManager.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Domain\\UserManager.Domain.csproj",
+              "RelativeDocumentMoniker": "UserManager.Domain\\UserManager.Domain.csproj",
+              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Domain\\UserManager.Domain.csproj",
+              "RelativeToolTip": "UserManager.Domain\\UserManager.Domain.csproj",
+              "ViewState": "AgIAABIAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-12T04:52:58.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Entity.cs",
               "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Domain\\Entities\\Entity.cs",
               "RelativeDocumentMoniker": "UserManager.Domain\\Entities\\Entity.cs",
@@ -135,20 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Domain\\Interfaces\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "UserManager.Domain\\Interfaces\\IUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Domain\\Interfaces\\IUnitOfWork.cs",
-              "RelativeToolTip": "UserManager.Domain\\Interfaces\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T13:44:27.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "DomainValidation.cs",
               "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Domain\\Validation\\DomainValidation.cs",
               "RelativeDocumentMoniker": "UserManager.Domain\\Validation\\DomainValidation.cs",
@@ -161,46 +259,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Infrastructure\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "UserManager.Infrastructure\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Infrastructure\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "UserManager.Infrastructure\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T14:10:56.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MembersController.cs",
-              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Api\\Controllers\\MembersController.cs",
-              "RelativeDocumentMoniker": "UserManager.Api\\Controllers\\MembersController.cs",
-              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Api\\Controllers\\MembersController.cs",
-              "RelativeToolTip": "UserManager.Api\\Controllers\\MembersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T04:25:27.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "MemberConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Infrastructure\\EntityConfiguration\\MemberConfiguration.cs",
               "RelativeDocumentMoniker": "UserManager.Infrastructure\\EntityConfiguration\\MemberConfiguration.cs",
               "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Infrastructure\\EntityConfiguration\\MemberConfiguration.cs",
               "RelativeToolTip": "UserManager.Infrastructure\\EntityConfiguration\\MemberConfiguration.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T22:01:02.921Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "MemberRepository.cs",
               "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Infrastructure\\Repositories\\MemberRepository.cs",
               "RelativeDocumentMoniker": "UserManager.Infrastructure\\Repositories\\MemberRepository.cs",
@@ -213,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "UserManager.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Infrastructure\\UserManager.Infrastructure.csproj",
               "RelativeDocumentMoniker": "UserManager.Infrastructure\\UserManager.Infrastructure.csproj",
@@ -226,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Api\\appsettings.json",
               "RelativeDocumentMoniker": "UserManager.Api\\appsettings.json",
@@ -239,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Infrastructure\\Repositories\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "UserManager.Infrastructure\\Repositories\\UnitOfWork.cs",
@@ -248,6 +320,25 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T01:51:12.509Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateMemberCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Application\\Members\\Commands\\CreateMemberCommand.cs",
+              "RelativeDocumentMoniker": "UserManager.Application\\Members\\Commands\\CreateMemberCommand.cs",
+              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Application\\Members\\Commands\\CreateMemberCommand.cs",
+              "RelativeToolTip": "UserManager.Application\\Members\\Commands\\CreateMemberCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T20:46:05.732Z",
               "EditorCaption": ""
             }
           ]

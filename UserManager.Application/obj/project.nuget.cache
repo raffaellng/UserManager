@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Rrhve/eaJ90=",
+  "dgSpecHash": "wYPIynIZdvA=",
   "success": true,
   "projectFilePath": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Application\\UserManager.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Raffaell Negreiros G\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\Raffaell Negreiros G\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Raffaell Negreiros G\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

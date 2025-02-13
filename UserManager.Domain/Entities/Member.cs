@@ -11,19 +11,24 @@ namespace UserManager.Domain.Entities
         public string? Email { get; set; }
         public bool IsActive { get; set; }
 
-        public Member() { }
-
-        public Member(string fistName, string secondName, string gender, string email, bool isActive = true)
+        public Member(string firstname, string lastname, string gender, string email, bool? active)
         {
-            ValidateDomain(fistName, secondName, gender, email, isActive);
+            ValidateDomain(firstname, lastname, gender, email, active);
         }
 
+        public Member() { }
+
         [JsonConstructor]
-        public Member(int id, string fistName, string lastName, string gender, string email, bool isActive)
+        public Member(int id, string fistName, string lastName, string gender, string email, bool? isActive)
         {
             DomainValidation.When(id < 0, "Invalid Id value.");
             Id = id;
             ValidateDomain(fistName, lastName, gender, email, isActive);
+        }
+
+        public void Update(string fistName, string secondName, string gender, string email, bool? isActive)
+        {
+            ValidateDomain(fistName, secondName, gender, email, isActive);
         }
 
         private void ValidateDomain(string fistName, string lastName, string gender, string email, bool? active)
