@@ -11,6 +11,38 @@
   },
   {
     "ContainingType": "UserManager.Api.Controllers.MembersController",
+    "Method": "CreateMember",
+    "RelativePath": "Members",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "UserManager.Application.Members.Commands.CreateMemberCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserManager.Api.Controllers.MembersController",
+    "Method": "DeleteMember",
+    "RelativePath": "Members",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserManager.Api.Controllers.MembersController",
     "Method": "GetMember",
     "RelativePath": "Members/{id}",
     "HttpMethod": "GET",
@@ -20,6 +52,27 @@
       {
         "Name": "id",
         "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserManager.Api.Controllers.MembersController",
+    "Method": "UpdateMember",
+    "RelativePath": "Members/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "UserManager.Application.Members.Commands.UpdateMemberCommand",
         "IsRequired": true
       }
     ],

@@ -1,6 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using MySqlConnector;
+using System.Data;
 using UserManager.Domain.Interfaces;
 using UserManager.Infrastructure.Context;
 using UserManager.Infrastructure.Repositories;
@@ -10,7 +12,7 @@ namespace UserManager.CrossCutting.AppDependencies
     public static class DependencyInjection
     {
         public static IServiceCollection AddInfrastructure(
-                                        this IServiceCollection services, 
+                                        this IServiceCollection services,
                                         IConfiguration configuration)
         {
             var mySqlConnection = configuration.GetConnectionString("DefaultConnection");
@@ -18,12 +20,20 @@ namespace UserManager.CrossCutting.AppDependencies
 
             services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblies(myhamdlers));
 
-            services.AddDbContext<AppDbContext>(options => 
-                                                options.UseMySql(mySqlConnection, 
+            services.AddDbContext<AppDbContext>(options =>
+                                                options.UseMySql(mySqlConnection,
                                                 ServerVersion.AutoDetect(mySqlConnection)));
+
+            services.AddSingleton<IDbConnection>(provider =>
+            {
+                var connection = new MySqlConnection(mySqlConnection);
+                connection.Open();
+                return connection;
+            });
 
             services.AddScoped<IMemberRepository, MemberRepository>();
             services.AddScoped<IUnitOfWork, UnitOfWork>();
+            services.AddScoped<IMemberDapperRepository, MemberDapperRepository>();
 
 
             return services;

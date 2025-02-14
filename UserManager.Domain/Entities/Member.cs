@@ -9,7 +9,7 @@ namespace UserManager.Domain.Entities
         public string? LastName { get; set; }
         public string? Gender { get; set; }
         public string? Email { get; set; }
-        public bool IsActive { get; set; }
+        public bool? IsActive { get; set; }
 
         public Member(string firstname, string lastname, string gender, string email, bool? active)
         {
@@ -53,7 +53,7 @@ namespace UserManager.Domain.Entities
             LastName = lastName;
             Gender = gender;
             Email = email;
-            IsActive = IsActive;
+            IsActive = active;
 
         }
     }

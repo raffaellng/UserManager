@@ -1,9 +1,8 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using UserManager.Application.Members.Commands;
-using UserManager.Domain.Entities;
+using UserManager.Application.Members.Queries;
 using UserManager.Domain.Interfaces;
-using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Database;
 
 namespace UserManager.Api.Controllers
 {
@@ -11,9 +10,6 @@ namespace UserManager.Api.Controllers
     [ApiController]
     public class MembersController : ControllerBase
     {
-        //TEMP
-        private readonly IUnitOfWork _unitOfWork;
-
         private readonly IMediator _mediator;
         private const string memberNotFound = "Member not found.";
 
@@ -25,14 +21,17 @@ namespace UserManager.Api.Controllers
         [HttpGet]
         public async Task<IActionResult> GetMembers()
         {
-            var members = await _unitOfWork.MemberRepository.GetAll();
+            var query = new GetMembersQuery();
+            var members = await _mediator.Send(query);
             return Ok(members);
         }
 
-        [HttpGet("{Id}")]
+        [HttpGet("{id}")]
         public async Task<IActionResult> GetMember(int id)
         {
-            var member = await _unitOfWork.MemberRepository.GetMemberById(id);
+            var query = new GetMemberByIdQuery { Id = id};
+            var member = await _mediator.Send(query);
+            
             return member != null ? Ok(member) : NotFound(memberNotFound);
         }
 
@@ -42,10 +41,9 @@ namespace UserManager.Api.Controllers
             var createdMember = await _mediator.Send(command);
 
             return CreatedAtAction(nameof(GetMember), new { id = createdMember.Id }, createdMember);
-
         }
 
-        [HttpPut("{Id}")]
+        [HttpPut("{id}")]
         public async Task<IActionResult> UpdateMember(int id, UpdateMemberCommand command)
         {
             command.Id = id;

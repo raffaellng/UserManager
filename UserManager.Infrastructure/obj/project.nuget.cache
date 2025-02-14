@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "tUg8y8khLxE=",
+  "dgSpecHash": "eT9dbYR+gmA=",
   "success": true,
   "projectFilePath": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.Infrastructure\\UserManager.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Raffaell Negreiros G\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
     "C:\\Users\\Raffaell Negreiros G\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Raffaell Negreiros G\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\Raffaell Negreiros G\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
