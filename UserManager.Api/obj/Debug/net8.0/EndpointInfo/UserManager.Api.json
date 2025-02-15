@@ -135,7 +135,7 @@
       "CreateMemberCommand": {
         "type": "object",
         "properties": {
-          "fistName": {
+          "firstName": {
             "type": "string",
             "nullable": true
           },
@@ -160,7 +160,7 @@
       "UpdateMemberCommand": {
         "type": "object",
         "properties": {
-          "fistName": {
+          "firstName": {
             "type": "string",
             "nullable": true
           },

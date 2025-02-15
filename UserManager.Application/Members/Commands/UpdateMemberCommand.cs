@@ -22,7 +22,7 @@ namespace UserManager.Application.Members.Commands
                 var existingMember = await _unitOfWork.MemberRepository.GetMemberById(request.Id)
                     ?? throw new InvalidOperationException("member not found");
 
-                existingMember.Update(request.FistName,
+                existingMember.Update(request.FirstName,
                                       request.LastName,
                                       request.Gender,
                                       request.Email,

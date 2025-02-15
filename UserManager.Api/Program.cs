@@ -1,3 +1,5 @@
+using System.Reflection;
+using UserManager.Api.Filters;
 using UserManager.CrossCutting.AppDependencies;
 namespace UserManager.Api
 {
@@ -13,6 +15,10 @@ namespace UserManager.Api
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+            builder.Services.AddMvc(options =>
+            {
+                options.Filters.Add(new CustomExceptionFilterBase());
+            });
 
             //registros de serviços
             builder.Services.AddInfrastructure(builder.Configuration);

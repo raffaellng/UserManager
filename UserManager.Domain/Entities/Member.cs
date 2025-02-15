@@ -35,11 +35,11 @@ namespace UserManager.Domain.Entities
         {
             DomainValidation.When(string.IsNullOrEmpty(fistName), "Invalid name. FistName is required");
 
-            DomainValidation.When(fistName.Length < 3, "Invalid name, too short, minumum 3 characters");
+            DomainValidation.When(fistName.Length < 3, "Invalid name, too short, minimum 3 characters");
 
             DomainValidation.When(string.IsNullOrEmpty(lastName), "Invalid lastname. LastName is required");
 
-            DomainValidation.When(lastName.Length < 3, "Invalid lastName, too short, minumum 3 characters");
+            DomainValidation.When(lastName.Length < 3, "Invalid lastName, too short, minimum 3 characters");
 
             DomainValidation.When(email?.Length > 250, "Invalid email, too short, maximum 250 characters");
 
