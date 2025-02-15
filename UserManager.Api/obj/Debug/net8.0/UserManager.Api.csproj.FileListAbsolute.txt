@@ -126,3 +126,5 @@ C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Api\bin\Debug
 C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Api\bin\Debug\net8.0\UserManager.Application.dll
 C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Api\bin\Debug\net8.0\UserManager.Application.pdb
 C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Api\bin\Debug\net8.0\Dapper.dll
+C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Api\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Raffaell Negreiros G\source\repos\UserManager\UserManager.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll

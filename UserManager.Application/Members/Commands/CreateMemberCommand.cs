@@ -1,4 +1,5 @@
-﻿using MediatR;
+﻿using FluentValidation;
+using MediatR;
 using UserManager.Domain.Entities;
 using UserManager.Domain.Interfaces;
 
@@ -6,19 +7,22 @@ namespace UserManager.Application.Members.Commands
 {
     public class CreateMemberCommand : MemberCommandBase
     {
-
         public class CreateMemberCommandHandler : IRequestHandler<CreateMemberCommand, Member>
         {
             private readonly IUnitOfWork _unitOfWork;
+            private readonly IValidator<CreateMemberCommand> _validator;
 
-            public CreateMemberCommandHandler(IUnitOfWork unitOfWork)
+            public CreateMemberCommandHandler(IUnitOfWork unitOfWork, IValidator<CreateMemberCommand> validator)
             {
                 _unitOfWork = unitOfWork;
+                _validator = validator;
             }
 
             public async Task<Member> Handle(CreateMemberCommand request, CancellationToken cancellationToken)
             {
-                var newMember = new Member(request.FistName, request.LastName, request.Gender, request.Email, request.IsActive);
+                _validator.ValidateAndThrow(request);
+
+                var newMember = new Member(request.FirstName, request.LastName, request.Gender, request.Email, request.IsActive);
 
                 await _unitOfWork.MemberRepository.AddMember(newMember);
                 await _unitOfWork.CommitAsync();

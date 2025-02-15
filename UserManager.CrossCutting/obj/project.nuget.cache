@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "2kIUKAq0atM=",
+  "dgSpecHash": "8/ja3DGfLe8=",
   "success": true,
   "projectFilePath": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\UserManager\\UserManager.CrossCutting\\UserManager.CrossCutting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Raffaell Negreiros G\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
+    "C:\\Users\\Raffaell Negreiros G\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\Raffaell Negreiros G\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.11.0\\fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
     "C:\\Users\\Raffaell Negreiros G\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Raffaell Negreiros G\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
     "C:\\Users\\Raffaell Negreiros G\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

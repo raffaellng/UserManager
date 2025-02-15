@@ -1,11 +1,14 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using FluentValidation;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using MySqlConnector;
 using System.Data;
+using System.Reflection;
 using UserManager.Domain.Interfaces;
 using UserManager.Infrastructure.Context;
 using UserManager.Infrastructure.Repositories;
+
 
 namespace UserManager.CrossCutting.AppDependencies
 {
@@ -31,10 +34,12 @@ namespace UserManager.CrossCutting.AppDependencies
                 return connection;
             });
 
+
             services.AddScoped<IMemberRepository, MemberRepository>();
             services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddScoped<IMemberDapperRepository, MemberDapperRepository>();
 
+            services.AddValidatorsFromAssembly(Assembly.Load("UserManager.Application"));
 
             return services;
         }
