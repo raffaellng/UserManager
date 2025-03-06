@@ -8,6 +8,7 @@ using System.Reflection;
 using UserManager.Domain.Interfaces;
 using UserManager.Infrastructure.Context;
 using UserManager.Infrastructure.Repositories;
+using UserManager.Application.Members.Commands.Validations;
 
 
 namespace UserManager.CrossCutting.AppDependencies
@@ -21,7 +22,11 @@ namespace UserManager.CrossCutting.AppDependencies
             var mySqlConnection = configuration.GetConnectionString("DefaultConnection");
             var myhamdlers = AppDomain.CurrentDomain.Load("UserManager.Application");
 
-            services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblies(myhamdlers));
+            services.AddMediatR(cfg =>
+                {
+                    cfg.RegisterServicesFromAssemblies(myhamdlers);
+                    cfg.AddOpenBehavior(typeof(ValidationBehaviour<,>));
+                });
 
             services.AddDbContext<AppDbContext>(options =>
                                                 options.UseMySql(mySqlConnection,

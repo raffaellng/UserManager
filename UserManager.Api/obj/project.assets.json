@@ -1008,6 +1008,7 @@
           "MediatR": "12.4.1",
           "Microsoft.Extensions.Configuration.Abstractions": "9.0.2",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.1",
+          "UserManager.Application": "1.0.0",
           "UserManager.Infrastructure": "1.0.0"
         },
         "compile": {
